@@ -1,0 +1,60 @@
+[33mcommit bebb5e243402a991f2ea6b5e1c6e831f3afd5ca7[m
+Author: 1609309613 <1609309613@qq.com>
+Date:   Sun Dec 11 23:35:34 2016 +0800
+
+    create file4
+
+[33mcommit 603f36fd4cb982fcb2da9775cada71d91a4f1e1c[m
+Author: 1609309613 <1609309613@qq.com>
+Date:   Sun Dec 11 22:56:49 2016 +0800
+
+    touch file2
+
+[33mcommit e4e46f9e7af7eae49814cfbb1ff8512496525270[m
+Author: zhuzhanpeng <1609309613@qq.com>
+Date:   Sun Dec 11 22:54:30 2016 +0800
+
+    Create xiaozhu
+
+[33mcommit 641e60b449077bcfa9ee1ed1e3e95695ecbc376a[m
+Merge: 0ee039b 5ffa1cf
+Author: 1609309613 <1609309613@qq.com>
+Date:   Sun Dec 11 22:50:59 2016 +0800
+
+    hao:Merge github.com:zhuzhanpeng/test
+
+[33mcommit 0ee039b0dbf923c130446c78f56c595a7a9cc9bd[m
+Author: 1609309613 <1609309613@qq.com>
+Date:   Sun Dec 11 22:23:55 2016 +0800
+
+    add a file1
+
+[33mcommit 5ffa1cf97d469b20bb91601133d9981f39994c04[m
+Author: 1609309613 <1609309613@qq.com>
+Date:   Thu Dec 8 23:44:04 2016 +0800
+
+    b.java add
+
+[33mcommit c9d73894c4ccc86727e91ff5eac2187e530c5e07[m
+Author: 1609309613 <1609309613@qq.com>
+Date:   Thu Dec 8 23:24:59 2016 +0800
+
+    a.java
+
+[33mcommit 12bfbb75e7356d9ea49fc00aeb7826fcb5caf10c[m
+Author: zhuzhanpeng <1609309613@qq.com>
+Date:   Thu Dec 8 23:13:59 2016 +0800
+
+    add a file
+
+[33mcommit 62cf57bf91842ef5bf7ea630d053ea6e2006a228[m
+Author: zhuzhanpeng <1609309613@qq.com>
+Date:   Thu Dec 8 23:12:49 2016 +0800
+
+    first modified
+
+[33mcommit c2f9a9fdeea9cc82e7229bb0de9bdbca8b860679[m
+Author: zhuzhanpeng <1609309613@qq.com>
+Date:   Thu Dec 8 22:14:32 2016 +0800
+
+    Initial commit
